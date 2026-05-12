@@ -10,6 +10,6 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo "Code push to Git repository triggered this pipeline."
+- script: echo "Hello Pradeep and Spandana i am from git push"
   displayName: 'Run a one-line script'
 
